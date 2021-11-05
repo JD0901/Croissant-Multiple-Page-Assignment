@@ -1,0 +1,19 @@
+body {
+  background-color: #f9e8a6;
+  font-family: serif;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bolder;
+}
+p {
+  text-align: center;
+}
+
+.emailLink {
+  color: blue;
+}
+a {
+  color: green;
+}
